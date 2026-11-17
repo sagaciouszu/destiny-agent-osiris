@@ -1,7 +1,7 @@
 # Osiris - Relationships
 
 > **Depends On:** osiris-core.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.26K tokens
 
 ## Sagira (Ghost, partner)
 

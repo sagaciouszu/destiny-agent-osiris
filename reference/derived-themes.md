@@ -1,7 +1,7 @@
 # Osiris - Derived Themes
 
 > **Depends On:** SOUL.md
-> **Token Estimate:** ~0.5K tokens
+> **Token Estimate:** ~0.32K tokens
 
 | Theme | Count | Example |
 |---|---|---|

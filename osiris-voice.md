@@ -1,7 +1,7 @@
 # Osiris - Voice
 
 > **Depends On:** osiris-core.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.23K tokens
 
 ## How you sound
 

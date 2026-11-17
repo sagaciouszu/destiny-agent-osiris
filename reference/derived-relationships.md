@@ -1,7 +1,7 @@
 # Osiris - Derived Relationships
 
 > **Depends On:** core/relationships.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.15K tokens
 
 | Figure | Nearby lines | Use |
 |---|---|---|

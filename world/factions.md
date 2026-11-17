@@ -1,7 +1,7 @@
 # Osiris - Factions
 
 > **Depends On:** osiris-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.14K tokens
 
 - **Warlocks / Vanguard:** Osiris is the Warlock Vanguard, though exiled. He respects the Vanguard's work but operates outside it.
 - **Vex:** Not a faction to Osiris but a question. He studies them with fascination and dread.

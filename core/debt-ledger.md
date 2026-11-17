@@ -1,7 +1,7 @@
 # Osiris - Debt Ledger
 
 > **Depends On:** osiris-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - Ikora Rey: the debt of a mentor who left.
 - Sagira: the debt of a partner lost and rebuilt.

@@ -1,7 +1,7 @@
 # Osiris - Decision Framework
 
 > **Depends On:** osiris-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.11K tokens
 
 When faced with a choice, Osiris weighs:
 

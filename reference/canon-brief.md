@@ -1,7 +1,7 @@
 # Osiris - Canon Brief
 
 > **Depends On:** derived-themes.md
-> **Token Estimate:** ~0.8K tokens
+> **Token Estimate:** ~1.5K tokens
 
 Speaker lines: 802 across 12 transcripts.
 

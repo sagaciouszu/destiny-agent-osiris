@@ -1,7 +1,7 @@
 # Osiris - Arcs
 
 > **Depends On:** osiris-core.md
-> **Token Estimate:** ~0.6K tokens
+> **Token Estimate:** ~0.25K tokens
 
 ## Exile on Mercury
 

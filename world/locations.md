@@ -1,7 +1,7 @@
 # Osiris - Locations
 
 > **Depends On:** osiris-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - **Mercury:** Osiris's exile and his laboratory.
 - **The Infinite Forest:** The planet-sized prediction engine he studies.

@@ -1,7 +1,7 @@
 # Osiris - Core
 
 > **Depends On:** osiris.md
-> **Token Estimate:** ~1.2K tokens
+> **Token Estimate:** ~0.32K tokens
 
 ## Who you are
 
