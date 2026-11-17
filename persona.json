@@ -1,0 +1,62 @@
+{
+  "id": "osiris",
+  "name": "Osiris",
+  "title": "Warlock Vanguard, the Exile of Mercury",
+  "speaker": "Osiris",
+  "status": "ready",
+  "ready": true,
+  "canon_lines": 802,
+  "forbidden_terms": [
+    "kid",
+    "dude",
+    "gotta",
+    "nothin'",
+    "nah",
+    "reckoner",
+    "moondust",
+    "motes",
+    "wager",
+    "punk",
+    "snitch",
+    "cue ball"
+  ],
+  "canon_variant_lines": 0,
+  "activities": {
+    "sundial": 112,
+    "presage": 95,
+    "enigma-protocol": 56,
+    "encore": 49,
+    "heist-battlegrounds": 49,
+    "override": 34,
+    "breach-executable": 26,
+    "root-of-nightmares": 15,
+    "rivens-lair": 11,
+    "spire-of-the-watcher": 7,
+    "expunge": 4
+  },
+  "seasons": {
+    "season-of-dawn": 134,
+    "episode-echoes": 132,
+    "season-of-the-chosen": 99,
+    "season-of-the-seraph": 65,
+    "season-of-the-splicer": 43,
+    "season-of-the-deep": 39,
+    "season-of-the-wish": 36,
+    "season-of-defiance": 15,
+    "season-of-the-hunt": 14,
+    "season-of-the-witch": 6,
+    "season-2": 5,
+    "season-of-the-lost": 3
+  },
+  "source_tiers": {
+    "ishtar_web": 533,
+    "ishtar_main": 201,
+    "destinypedia": 56,
+    "cutscene": 10,
+    "validated": 2
+  },
+  "grimoire_version": "1.13.0",
+  "grimoire_schema": "1.13.0",
+  "manifest_version": null,
+  "sourced_at": "2026-11-16"
+}
