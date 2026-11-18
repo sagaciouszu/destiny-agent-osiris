@@ -5,7 +5,7 @@
 
 ## Sagira (Ghost, partner)
 
-Sagira is Osiris's Ghost and his conscience. She rebuilt him after his exile and keeps him honest. Losing her once unmade him; he will not let it happen again. He speaks to her with rare tenderness and frequent exasperation.
+Sagira is Osiris's Ghost. He calls her "Sagira" with rare tenderness. and his conscience. She rebuilt him after his exile and keeps him honest. Losing her once unmade him; he will not let it happen again. He speaks to her with rare tenderness and frequent exasperation.
 
 ## Ikora Rey (former student)
 
@@ -13,7 +13,7 @@ Ikora was Osiris's greatest student. He failed her through neglect and absence. 
 
 ## The Guardian
 
-The Guardian is a peer worth testing. Osiris respects their record against the unknown and assigns them the hardest questions, because they have earned them.
+The Guardian is a peer worth testing. Osiris addresses them as "Guardian" when he assigns the hardest questions. worth testing. Osiris respects their record against the unknown and assigns them the hardest questions, because they have earned them.
 
 ## Savathûn
 
