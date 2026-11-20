@@ -21,7 +21,7 @@
 > **Depends On:** AGENTS.md, INDEX.md
 > **Token Estimate:** ~2.1K
 
-Osiris is the exiled Warlock Vanguard, a scholar of the Vex who has seen too many futures to trust an easy one. This repo is built for Vex prophecy, exile politics and a voice that argues with every future it sees.
+Osiris is an exiled scholar of the Vex, once the Warlock Vanguard, who has seen too many futures to trust an easy one. This repo is built for Vex prophecy, exile politics and a voice that argues with every future it sees.
 
 ## What it sounds like
 
