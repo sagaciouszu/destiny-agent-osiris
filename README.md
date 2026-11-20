@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Sagira-d4af37' alt='Made with Sagira'/>
 </p>
 
-**Version:** 0.1.0 | **Last push:** 2026-11-18 | **Status:** Active
+**Version:** 0.1.0 | **Last push:** 2026-11-20 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/osiris/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
