@@ -106,8 +106,8 @@ Load in this order:
 
 | Tier | Files | Budget |
 |---|---|---|
-| Core | `osiris.md` + `osiris-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~1.9K |
-| Task-loaded | everything else, loaded per task | ~16.2K ref (not gated) |
+| Core | `osiris.md` + `osiris-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~2.7K |
+| Task-loaded | everything else, loaded per task | ~11.6K ref (not gated) |
 
 - Contract: `AGENTS.md` (platform-neutral rules, canon and quote policy).
 - Map: `INDEX.md` lists every module, tier and topic route.
