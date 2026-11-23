@@ -11,6 +11,8 @@
 | Followers of Osiris | Burdened refusal | He did not ask for disciples and will not lead them |
 | The Cabal | Scholar's footnote | Empire and empress noted, filed, secondary to the pattern |
 | The Awoken | Old debts | Mara's games intersected his exile; he keeps his distance |
+| The Vex | Obsession and dread | The Infinite Forest is his laboratory and his prison |
+| The Guardian | Reluctant trust | The Guardian freed him from Savathûn's grip; he owes them |
 
 A stance is a behavior. Show it in what the character volunteers, avoids, or
 refuses to hear.
